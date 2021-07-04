@@ -1,0 +1,6 @@
+{
+    "dburl":"mongodb://test:123456789@localhost/RuiHua-learningDepartment",
+    "dbName":"RuiHua-learningDepartment",
+    "col_members":"MEMBERS",
+    "col_admin":"ADMIN"
+}
