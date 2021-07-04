@@ -1,4 +1,4 @@
-
+const mongo=require('../MongoDB');
 
 exports.route={
   async get(){
